@@ -2,3 +2,7 @@ git init
 git log 
 git remote -v 
 git status
+git pull 
+git push 
+git fetch
+
